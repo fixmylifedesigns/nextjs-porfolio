@@ -1,0 +1,203 @@
+[
+  {
+    "display": 1,
+    "title": "Kanji Study",
+    "website": "https://angular.fmlcycling.com/",
+    "img": "https://github.com/fixmylifedesigns/reactjs-portfolio/blob/master/src/images/projects/kanjistudy.png?raw=true",
+    "description": "Kanji Study app for practicing n5 Japanese Kanji",
+    "repo": "https://github.com/fixmylifedesigns/Kanji-study"
+  },
+  {
+    "display": 1,
+    "title": "JLPT Jokes",
+    "website": "https://jlptjokes.com/",
+    "img": "https://github.com/fixmylifedesigns/reactjs-portfolio/blob/master/src/images/projects/jlptjokes.png?raw=true",
+    "description": "Website for japanese langage learns. Learn Japanese through jokes and puns",
+    "repo": "https://github.com/fixmylifedesigns/jlptjokes"
+  },
+  {
+    "display": 1,
+    "title": "Nihongo With Moeno",
+    "website": "https://nihongowithmoeno.com/",
+    "img": "https://github.com/fixmylifedesigns/reactjs-portfolio/blob/master/src/images/projects/moeno.png?raw=true",
+    "description": "Kanji Study app for practicing n5 Japanese Kanji",
+    "repo": "https://github.com/fixmylifedesigns/nihongowithmoeno"
+  },
+  {
+    "display": 1,
+    "title": "Angular E-com Store",
+    "website": "https://angular.fmlcycling.com/",
+    "img": "https://github.com/fixmylifedesigns/reactjs-portfolio/blob/master/src/images/projects/angularfml.PNG?raw=true",
+    "description": "Rebuilt my E-commerce shop in Angular. Using the my e-commerce backend platform and alot of the css from my previous ReactJs build. fmlcycling.com",
+    "repo": "https://github.com/fixmylifedesigns/fmlshopangular",
+    "api": "https://documenter.getpostman.com/view/7133880/T17JA7YV?version=latest",
+    "demo": "https://www.linkedin.com/posts/irvingduran_so-i-started-working-on-a-project-with-angular-activity-6701652240777715712-Fc4B"
+  },
+  {
+    "display": 1,
+    "title": "Fmlcycling E-com Store",
+    "website": "https://www.fmlcycling.com/",
+    "img": "https://github.com/fixmylifedesigns/reactjs-portfolio/blob/master/src/images/projects/fmlcycling.png?raw=true",
+    "description": "Independent Project, E-commerce Website built for personal business. Connected to my e-commerce platform and taking payments with paypal.",
+    "repo": "https://github.com/fixmylifeShop/fixmylife-frontend",
+    "api": "https://documenter.getpostman.com/view/7133880/T17JA7YV?version=latest",
+    "demo": "https://www.linkedin.com/posts/irvingduran_showing-progress-on-my-ecom-platform-and-activity-6664327616700391424-wrRM"
+  },
+  {
+    "display": 1,
+    "title": "E-commerce Platform",
+    "img": "https://github.com/fixmylifedesigns/reactjs-portfolio/blob/master/src/images/projects/ecomplatform.png?raw=true",
+    "description": "Independent Project, E-commerce platform with backend that allows users to connect Frontend of their choice for there online store.",
+    "repo": "https://github.com/fixmylifeShop/",
+    "api": "https://documenter.getpostman.com/view/7133880/T17JA7YV?version=latest",
+    "demo": "https://www.linkedin.com/posts/irvingduran_just-a-quick-update-on-the-procress-today-activity-6666913058713026560-zJmE"
+  },
+  {
+    "display": 1,
+    "title": "Carpool App",
+    "website": "https://carpoolapp.netlify.app/",
+    "img": "https://github.com/fixmylifedesigns/reactjs-portfolio/blob/master/src/images/projects/carpool.png?raw=true",
+    "description": "Independent Project, Web application that alows users to create an account and make new rides and accept to carpool with other drivers.",
+    "repo": "https://github.com/fixmylifedesigns/carpoolappfrontend",
+    "api": "https://documenter.getpostman.com/view/7133880/SWECWFKD?version=latest"
+  },
+  {
+    "display": 1,
+    "title": "Broken U-Lock",
+    "website": "https://www.brokenulock.com",
+    "img": "https://github.com/fixmylifedesigns/reactjs-portfolio/blob/master/src/images/projects/ulock.png?raw=true",
+    "description": "Independent Project, Web application that alows users to create an account and make posts to report stolen bicycles. Work in progress.",
+    "repo": "https://github.com/brokenulock",
+    "api": "https://documenter.getpostman.com/view/7133880/SVfMUAdJ?version=latest",
+    "demo": "https://youtu.be/xDORl-csvqU"
+  },
+  {
+    "display": 1,
+    "title": "Intelliflight",
+    "website": "https://www.intelliflight.app/",
+    "img": "https://github.com/fixmylifedesigns/reactjs-portfolio/blob/master/src/images/projects/intelliflight.png?raw=true",
+    "description": "Team Project, tasked to create a web application that allows pilots to create pireps and route plans.",
+    "repo": "https://github.com/labs13-intelliflight",
+    "api": "https://documenter.getpostman.com/view/7133880/S1TYVGJp?version=latest",
+    "demo": "https://youtu.be/7UVnwE1ntwc"
+  },
+
+  {
+    "display": 0,
+    "title": "Next Js Boilerplate",
+    "website": "https://fixmylife-next-api.herokuapp.com/",
+    "img": "https://github.com/fixmylifedesigns/reactjs-portfolio/blob/master/src/images/projects/nextboilerplate.png?raw=true",
+    "description": "Next Js Boilerplate easy for new developers who want to make an amazing project quickly. Also great for developers who don't know backend.",
+    "repo": "https://github.com/fixmylife-boilerplates",
+    "api": "https://documenter.getpostman.com/view/7133880/SVfQRUJX?version=latest",
+    "tutorial": "https://youtu.be/RnbW-0t9ixY"
+  },
+
+  {
+    "display": 1,
+    "title": "React Native Map",
+    "img": "https://github.com/fixmylifedesigns/reactjs-portfolio/blob/master/src/images/projects/reactnativelocation.PNG?raw=true",
+    "description": "React Native map using built in gps to show your current location while also showing markers coming in from endpoints",
+    "repo": "https://github.com/fixmylifedesigns/react-native-location"
+  },
+
+  {
+    "display": 1,
+    "title": "Firebase Image Uploader",
+    "website": "https://firebaseuploader.netlify.app",
+    "description": "Tutorial on using firebase to save images to their server and receive a url in return.",
+    "img": "https://github.com/fixmylifedesigns/reactjs-portfolio/blob/master/src/images/projects/firebaselogin.png?raw=true",
+    "repo": "https://github.com/fixmylifedesigns/firebase_uploader",
+    "tutorial": "https://youtu.be/34f_SO7SWVA"
+  },
+
+  {
+    "display": 1,
+    "title": "Geo-Location Map",
+    "website": "https://reactlocation.netlify.app/",
+    "description":"Demo react app using geo-location and google maps to render a map that shows the users current location and seeded data.",
+    "img": "https://github.com/fixmylifedesigns/reactjs-portfolio/blob/master/src/images/projects/geolocation.png?raw=true",
+    "repo": "https://github.com/fixmylifedesigns/googlemaps-geolocation",
+    "demo": "https://youtu.be/reFElyEkXPg"
+  },
+  {
+    "display": 1,
+    "title": "Yisag Tattoo",
+    "website": "https://yisag.netlify.app/",
+    "img": "https://github.com/fixmylifedesigns/reactjs-portfolio/blob/master/src/images/projects/yisag.png?raw=true",
+    "description": "Project for a client tasked to build a website for his business that met his designs and needs.",
+    "repo": "https://github.com/fixmylifedesigns/yisagbogota"
+  },
+  {
+    "display": 1,
+    "title": "RVNB",
+    "website": "https://rvnb.netlify.app",
+    "description":"Team Lead, Lead a team of students in the development of a react app that allows users to create view and rent land listings, perfect for RV.",
+    "img": "https://github.com/fixmylifedesigns/reactjs-portfolio/blob/master/src/images/projects/rvnb.png?raw=true",
+    "repo": "https://github.com/RV-camping-Airbnb",
+    "api": "https://documenter.getpostman.com/view/7133880/SVn2NFKn?version=latest"
+  },
+
+  {
+    "display": 1,
+    "title": "Lambda Time",
+    "website": "https://lambdatime.netlify.app",
+    "description":"React js game that connects to Lambdaschool servers. The game allows a player to travel through a map in search for travel and mining coins.",
+    "img": "https://github.com/fixmylifedesigns/reactjs-portfolio/blob/master/src/images/projects/lambdatime.png?raw=true",
+    "repo": "https://github.com/build-week-2/Adventure-Time"
+  },
+
+  {
+    "display": 1,
+    "title": "Lambda Road Trip",
+    "website": "https://lambdaroadtrip.netlify.app",
+    "description":"Frontend React Developer, tasked to make the frontend for a roadtrip travel game.",
+    "img": "https://github.com/fixmylifedesigns/reactjs-portfolio/blob/master/src/images/projects/roadtrip.png?raw=true",
+    "repo": "https://github.com/lambda-mud",
+    "api": "https://documenter.getpostman.com/view/7133880/SVYnSgct?version=latest"
+  },
+
+  {
+    "display": 1,
+    "title": "Tabless Thursday",
+    "website": "https://tabless-thursday-landing-1.netlify.app",
+    "description":"Backend Developer, tasked to create a that allows users to create and login into their account where they can post edit and delete tabs.",
+    "img": "https://github.com/fixmylifedesigns/reactjs-portfolio/blob/master/src/images/projects/tabless.png?raw=true",
+    "repo": "https://github.com/tabless-tt",
+    "api": "https://documenter.getpostman.com/view/7133880/S1TN7gjq?version=latest#941ab1ee-82cc-4c96-8d4b-9052eb0c85fb"
+  },
+
+  {
+    "display": 1,
+    "title": "Educell",
+    "website": "https://educell-marketing.netlify.app/",
+    "img": "https://github.com/fixmylifedesigns/reactjs-portfolio/blob/master/src/images/projects/educell.png?raw=true",
+    "description": "UI developer, tasked to create a marketing page for a web application.",
+    "repo": "https://github.com/build-week-educell/marketing-page"
+  },
+  {
+    "display": 1,
+    "title": "React Pokedex",
+    "website": "https://fixmydex.netlify.app",
+    "description": "React app using open source api to render all the pokemon and their information.",
+    "img": "https://github.com/fixmylifedesigns/reactjs-portfolio/blob/master/src/images/projects/fixmydex.png?raw=true",
+    "repo": "https://github.com/fixmylifedesigns/fixmydex"
+  },
+  {
+    "display": 1,
+    "title": "React Wars",
+    "website": "https://reactmylife.netlify.app/",
+    "description":"Lambda school sprint challenged tasked to render star wars data from an open source api.",
+    "img": "https://github.com/fixmylifedesigns/reactjs-portfolio/blob/master/src/images/projects/reactwars.png?raw=true",
+    "repo": "https://github.com/fixmylifedesigns/Sprint-Challenge-React-Wars"
+  },
+
+  {
+    "display": 0,
+    "title": "Artfolio",
+    "website": "https://art-folio.netlify.app/",
+    "img": "https://github.com/fixmylifedesigns/reactjs-portfolio/blob/master/src/images/projects/artfolio.png?raw=true",
+    "description": "Frontend React Developer, tasked to create a web application that allows free users to view post and logged in users to publish and share their work",
+    "repo": "https://github.com/lambda-art-portfolio/frontend/tree/master"
+  }
+]
