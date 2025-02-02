@@ -1,5 +1,5 @@
 import { NextResponse } from "next/server";
-import blankImage from "../../../data/images/06dc8dda360a79a8ec50.webp";
+import blankImage from "@/data/images/06dc8dda360a79a8ec50.webp";
 export async function GET() {
   const controller = new AbortController();
   const timeoutId = setTimeout(() => controller.abort(), 10000); // 10 second timeout
