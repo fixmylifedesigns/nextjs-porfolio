@@ -9,9 +9,15 @@
 // import Contact from "../components/Contact";
 // import Footer from "../components/Footer";
 import Portfolio from "../components/new/landing";
+import ElevenLabsAgent from "../components/ElevenLabsAgent";
 
 export default function Home() {
   // const { isDarkMode } = useTheme();
 
-  return <Portfolio />;
+  return (
+    <div>
+      <Portfolio />
+      {process.env.NEXT_PUBLIC_ELEVEN_LABS && <ElevenLabsAgent />}
+    </div>
+  );
 }
